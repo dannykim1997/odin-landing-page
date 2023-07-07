@@ -5,6 +5,18 @@ body {
 .header {
     border: 2px solid;
     background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .body1 {
