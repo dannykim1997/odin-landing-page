@@ -1,13 +1,15 @@
 body {
-
+    background-color: bisque;
 }
 
 .header {
     border: 2px solid;
+    background-color: cadetblue;
 }
 
 .body1 {
     border: 2px solid;
+    background-color: white;
 }
 
 img {
@@ -18,12 +20,15 @@ img {
 
 .body2 {
     border: 2px solid;
+    background-color: grey;
 }
 
 .body3 {
     border: 2px solid;
+    background-color: white;
 }
 
 .footer {
     border: 2px solid;
+    background-color: cadetblue;
 }
