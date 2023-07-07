@@ -1,0 +1,29 @@
+body {
+
+}
+
+.header {
+    border: 2px solid;
+}
+
+.body1 {
+    border: 2px solid;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+}
+
+.body2 {
+    border: 2px solid;
+}
+
+.body3 {
+    border: 2px solid;
+}
+
+.footer {
+    border: 2px solid;
+}
