@@ -104,6 +104,25 @@ img {
 .body2 {
     border: red 2px solid;
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote-content {
+    max-width: 500px;
+    padding: 20px;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+p.quote {
+    font-style: italic;
+}
+
+p.author {
+    text-align: end;
+    font-weight: bolder;
 }
 
 .body3 {
